@@ -14,19 +14,26 @@ when interacting with nonlinear non-monotonic functions.
 # Demon Trajectory
 <table>
   <tr>
-    <td><img src="./assets/linearsum.gif" width="250"></td>
-      <sub>Linear Sum</sub>
-    <td><img src="./assets/expsum.gif" width="250"></td>
+    <td><img src="./assets/linearsum.gif" width="250">
+      <sub>Linear Sum</sub>    
+    </td>
+    <td><img src="./assets/expsum.gif" width="250">
       <sub>Exponential Sum</sub>
-    <td><img src="./assets/quadsum.gif" width="250"></td>
-      <sub>Quadratic Sum</sub>
+    </td>
+    <td><img src="./assets/quadsum.gif" width="250">
+      <sub>Quadratic Sum</sub>    
+    </td>
+
   </tr>
   <tr>
-    <td><img src="./assets/linearprod.gif" width="250"></td>
-          <sub>Linear Product</sub>
-    <td><img src="./assets/expprod.gif" width="250"></td>
-          <sub>Exponential Product</sub>
-    <td><img src="./assets/quadprod.gif" width="250"></td>
-          <sub>Quadratic Product</sub>
+    <td><img src="./assets/linearprod.gif" width="250">
+      <sub>Linear Product</sub>
+    </td>
+    <td><img src="./assets/expprod.gif" width="250">
+      <sub>Exponential Product</sub>
+    </td>
+    <td><img src="./assets/quadprod.gif" width="250">
+      <sub>Quadratic Product</sub>
+    </td>
   </tr>
 </table>
