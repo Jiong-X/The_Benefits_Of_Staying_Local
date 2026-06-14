@@ -15,12 +15,18 @@ when interacting with nonlinear non-monotonic functions.
 <table>
   <tr>
     <td><img src="./assets/linearsum.gif" width="250"></td>
+      <sub>Linear Sum</sub>
     <td><img src="./assets/expsum.gif" width="250"></td>
+      <sub>Exponential Sum</sub>
     <td><img src="./assets/quadsum.gif" width="250"></td>
+      <sub>Quadratic Sum</sub>
   </tr>
   <tr>
     <td><img src="./assets/linearprod.gif" width="250"></td>
+          <sub>Linear Product</sub>
     <td><img src="./assets/expprod.gif" width="250"></td>
+          <sub>Exponential Product</sub>
     <td><img src="./assets/quadprod.gif" width="250"></td>
+          <sub>Quadratic Product</sub>
   </tr>
 </table>
