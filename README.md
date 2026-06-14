@@ -10,3 +10,17 @@ participants represent and solve the tasks. While broadly successful, we find ev
 on projecting a locally linear monotonic relationships, while also taking control actions that are conservative, preferring to
 adjust one variable rather than both relative to their previous action. We suggest that this allows for robust performance even
 when interacting with nonlinear non-monotonic functions.
+
+# Demon Trajectory
+<table>
+  <tr>
+    <td><img src="./assets/linearsum.gif" width="250"></td>
+    <td><img src="./assets/expsum.gif" width="250"></td>
+    <td><img src="./assets/quadsum.gif" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/linearprod.gif" width="250"></td>
+    <td><img src="./assets/expprod.gif" width="250"></td>
+    <td><img src="./assets/quadprod.gif" width="250"></td>
+  </tr>
+</table>
