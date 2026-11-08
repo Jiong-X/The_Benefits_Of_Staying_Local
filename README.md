@@ -11,7 +11,7 @@ on projecting a locally linear monotonic relationship, while also taking control
 adjust one variable rather than both relative to their previous action. We suggest that this allows for robust performance even
 when interacting with nonlinear non-monotonic functions.
 
-# Demon Trajectory
+# Demo Trajectory
 Each heatmap corresponds to the action space for a certain generative function. The regions highlighted in yellow are actions that 
 produce rewarding actions at the given timestep. The locations of arrowheads represent the actions selected by the participant at 
 the given timestep.
